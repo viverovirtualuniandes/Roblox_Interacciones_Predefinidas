@@ -21,7 +21,7 @@ Este repositorio contiene el proyecto de Roblox con interacciones predefinidas. 
 
 Además, puedes explorar el metaverso publicado en Roblox a través del siguiente enlace.
 
-Metaverso en Roblox: https://www.roblox.com/games/108642433022293/Galer-a-Vivero-Virtual 
+Metaverso en Roblox: https://www.roblox.com/games/76881413747159/Interacciones-Predefinidas
 
 <img width="1077" alt="Paquete Base" src="https://github.com/user-attachments/assets/7db9d6b2-2181-417b-91c8-690425dd9983">
 
